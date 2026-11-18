@@ -4,21 +4,21 @@
 
 ## 直接下载
 
-**[下载完整资料 ZIP，约92MB](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Complete_20261118.zip)**
+**[下载完整资料 ZIP，约92MB](https://github.com/dazong9275-prog/jiayuan-vs/archive/refs/heads/main.zip)**
 
-[仅下载策划与AI教程，约240KB](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Documents_20261118.zip)
+[仅下载策划与AI教程，约240KB](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Documents_20261118.zip)
 
 完整包已经包含全部内容。若完整包下载不便，可改为逐个下载以下9个独立小包，每包约2–14MB：
 
-- [01 · 狼族上组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_01.zip)
-- [02 · 狼族下组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_02.zip)
-- [03 · 土拨鼠上组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_03.zip)
-- [04 · 土拨鼠下组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_04.zip)
-- [05 · 狐狸上组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_05.zip)
-- [06 · 狐狸下组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_06.zip)
-- [07 · 猫头鹰上组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_07.zip)
-- [08 · 猫头鹰下组](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_08.zip)
-- [09 · 獠牙黑猪与全部策划教程](https://github.com/dazong9275-prog/jiayuan-vs/releases/download/design-v1-20261118/Jiayuan_Part_09.zip)
+- [01 · 狼族上组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_01.zip)
+- [02 · 狼族下组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_02.zip)
+- [03 · 土拨鼠上组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_03.zip)
+- [04 · 土拨鼠下组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_04.zip)
+- [05 · 狐狸上组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_05.zip)
+- [06 · 狐狸下组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_06.zip)
+- [07 · 猫头鹰上组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_07.zip)
+- [08 · 猫头鹰下组](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_08.zip)
+- [09 · 獠牙黑猪与全部策划教程](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/Jiayuan_Part_09.zip)
 
 将9个小包依次解压到同一个目录，即可合并为完整资料；每包都可以单独解压。
 
