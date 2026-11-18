@@ -1,0 +1,18 @@
+﻿Create a DISTINCT individual anthropomorphic OWL character for fantasy game 家园. Use the reference sheet ONLY for quality, art direction, and cute THREE-HEAD-TALL proportion: oversized round facial disk, expressive golden/hazel eyes, little hooked BEAK, real feathered WING-ARMS with feathered grasping tips rather than human hands, short sturdy body, short bird legs and TALONS, layered feather tail. Lovable adult in miniature chibi proportions. Fine hand-painted feathers, tactile leather, cloth, aged metal. NOT the pope: NO papal cap, NO cross, NO scripture book, NO inherited ceremonial white-and-burgundy costume unless the individual brief calls for its colors. Clearly vary face, plumage and clothing to match the individual brief.
+ONE wide character turnaround sheet, exactly FOUR complete full-body views in a row: FRONT, BACK, character's LEFT side profile facing image-left, character's RIGHT side profile facing image-right. Same neutral standing pose, same costume, same scale and foot baseline. Each head, wings, feet and all equipment fully inside margins. Genuine back view showing rear head feathers, wing roots, rear clothes, belt closure, feather tail and actual equipment straps; never mirror front into back. True side views with coherent body volume. ALL asymmetric items must keep same CHARACTER-RELATIVE side: character LEFT items appear screen-right in FRONT and screen-left in BACK; character RIGHT vice versa. Correct occlusion of far-side equipment in profiles. No duplicated weapons or extra limbs. Pale warm beige plain background with faint alignment guides. No text, labels, numbers, logos, environment or obscuring VFX.
+ CRITICAL: bow in LEFT wing-hand, quiver at RIGHT shoulder and RIGHT hip. In BACK view bow is IMAGE LEFT and quiver IMAGE RIGHT. Keep the bow, quiver and leather straps coherent across all four views.
+INDIVIDUAL BRIEF:
+{
+  "id": "owl_archer",
+  "name": "望弦",
+  "race": "猫头鹰",
+  "role": "弓手",
+  "palette": "暖褐、林绿、铜棕",
+  "face": "清晰眉线，耳或羽簇完整，温和目光；圆面盘、小喙、翼臂、鸟爪与短尾羽",
+  "front": "木角弓、箭袋、护指和窄护臂",
+  "sides": "左手持弓、右肩至右胯箭袋；背面弓在画面左、袋在画面右",
+  "back": "箭袋真实袋口与背带、弓弦、后腰工具袋",
+  "identity": "远程支援与观测的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 38
+}

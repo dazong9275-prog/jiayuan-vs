@@ -1,0 +1,17 @@
+﻿Create an ORIGINAL distinct anthropomorphic fox character for the fantasy game 家园. Use attached fox reference ONLY for polished painterly rendering and adorable 3-head-tall proportions, not its costume or props. ADULT character rendered as a cute miniature: oversized expressive head, large pointed ears, short muzzle, short sturdy limbs, round broad paws, ONE fluffy white-tipped tail. Tactile fur, cloth, worn leather, subdued bronze. FOUR complete full-body views in one wide sheet, from left to right: straight FRONT, true BACK, CHARACTER LEFT PROFILE facing image-left, CHARACTER RIGHT PROFILE facing image-right. ALL same scale, same relaxed neutral pose, same costume and equipment count. Ground and crown aligned. Entire ears, feet, weapons visible with margin. Back must be real rear structure and straps, never mirrored front. Maintain character-relative handedness: left side gear front image-right/back image-left; right side gear front image-left/back image-right. Profiles must honor near/far equipment occlusion. No additional hands/tails/weapons, no human body proportions, no background scenery, no text/logos/captions or floating heads. Light warm beige background, faint unobtrusive alignment lines. Follow the unique Chinese brief precisely, separating this character from the reference lord.
+ARCHER critical: bow ALWAYS held in LEFT hand, quiver ALWAYS RIGHT shoulder to RIGHT hip. Front bow at image-right, quiver image-left; BACK bow at image-left, quiver image-right. Do not swap these in back view. Both profiles show correct attachment and bow string.
+CHARACTER BRIEF:
+{
+  "id": "fox_archer",
+  "name": "榆弦",
+  "race": "狐狸",
+  "role": "弓手",
+  "palette": "淡橘、林绿、枫红",
+  "face": "清晰眉线，耳或羽簇完整，温和目光；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "木角弓、箭袋、护指和窄护臂",
+  "sides": "左手持弓、右肩至右胯箭袋；背面弓在画面左、袋在画面右",
+  "back": "箭袋真实袋口与背带、弓弦、后腰工具袋",
+  "identity": "远程支援与观测的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 28
+}

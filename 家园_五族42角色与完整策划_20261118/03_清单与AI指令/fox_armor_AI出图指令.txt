@@ -1,0 +1,16 @@
+﻿Create an ORIGINAL distinct anthropomorphic fox character for the fantasy game 家园. Use attached fox reference ONLY for polished painterly rendering and adorable 3-head-tall proportions, not its costume or props. ADULT character rendered as a cute miniature: oversized expressive head, large pointed ears, short muzzle, short sturdy limbs, round broad paws, ONE fluffy white-tipped tail. Tactile fur, cloth, worn leather, subdued bronze. FOUR complete full-body views in one wide sheet, from left to right: straight FRONT, true BACK, CHARACTER LEFT PROFILE facing image-left, CHARACTER RIGHT PROFILE facing image-right. ALL same scale, same relaxed neutral pose, same costume and equipment count. Ground and crown aligned. Entire ears, feet, weapons visible with margin. Back must be real rear structure and straps, never mirrored front. Maintain character-relative handedness: left side gear front image-right/back image-left; right side gear front image-left/back image-right. Profiles must honor near/far equipment occlusion. No additional hands/tails/weapons, no human body proportions, no background scenery, no text/logos/captions or floating heads. Light warm beige background, faint unobtrusive alignment lines. Follow the unique Chinese brief precisely, separating this character from the reference lord.
+CHARACTER BRIEF:
+{
+  "id": "fox_armor",
+  "name": "赤垒",
+  "race": "狐狸",
+  "role": "重装",
+  "palette": "深赤、砖红、铁蓝",
+  "face": "方圆面型，厚实低重心；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "宽盾、短锤、厚甲与软衬",
+  "sides": "左臂宽盾、右手短锤",
+  "back": "盾背两道带、分片背甲、活动裙甲",
+  "identity": "护卫与承受攻击的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 26
+}

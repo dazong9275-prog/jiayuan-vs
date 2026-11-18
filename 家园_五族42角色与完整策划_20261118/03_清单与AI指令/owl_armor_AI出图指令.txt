@@ -1,0 +1,18 @@
+﻿Create a DISTINCT individual anthropomorphic OWL character for fantasy game 家园. Use the reference sheet ONLY for quality, art direction, and cute THREE-HEAD-TALL proportion: oversized round facial disk, expressive golden/hazel eyes, little hooked BEAK, real feathered WING-ARMS with feathered grasping tips rather than human hands, short sturdy body, short bird legs and TALONS, layered feather tail. Lovable adult in miniature chibi proportions. Fine hand-painted feathers, tactile leather, cloth, aged metal. NOT the pope: NO papal cap, NO cross, NO scripture book, NO inherited ceremonial white-and-burgundy costume unless the individual brief calls for its colors. Clearly vary face, plumage and clothing to match the individual brief.
+ONE wide character turnaround sheet, exactly FOUR complete full-body views in a row: FRONT, BACK, character's LEFT side profile facing image-left, character's RIGHT side profile facing image-right. Same neutral standing pose, same costume, same scale and foot baseline. Each head, wings, feet and all equipment fully inside margins. Genuine back view showing rear head feathers, wing roots, rear clothes, belt closure, feather tail and actual equipment straps; never mirror front into back. True side views with coherent body volume. ALL asymmetric items must keep same CHARACTER-RELATIVE side: character LEFT items appear screen-right in FRONT and screen-left in BACK; character RIGHT vice versa. Correct occlusion of far-side equipment in profiles. No duplicated weapons or extra limbs. Pale warm beige plain background with faint alignment guides. No text, labels, numbers, logos, environment or obscuring VFX.
+
+INDIVIDUAL BRIEF:
+{
+  "id": "owl_armor",
+  "name": "磐翎",
+  "race": "猫头鹰",
+  "role": "重装",
+  "palette": "深褐、铁青、旧金",
+  "face": "方圆面型，厚实低重心；圆面盘、小喙、翼臂、鸟爪与短尾羽",
+  "front": "宽盾、短锤、厚甲与软衬",
+  "sides": "左臂宽盾、右手短锤",
+  "back": "盾背两道带、分片背甲、活动裙甲",
+  "identity": "护卫与承受攻击的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 36
+}

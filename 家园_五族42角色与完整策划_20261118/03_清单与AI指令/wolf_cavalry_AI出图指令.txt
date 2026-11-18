@@ -1,0 +1,14 @@
+﻿Create a DIFFERENT individual anthropomorphic WOLF for game 家园, using the reference only for shared extremely cute THREE-HEADS-TALL miniature adult anatomy and meticulous painterly fur/cloth/aged-leather/bronze rendering. Big round expressive head, very short thick limbs, broad soft paws, low compact torso, friendly but distinct character-specific face and hairstyle. Do NOT copy spear hero's braid, back flag, spear or face markings unless explicitly requested. ONE wide clean sheet with FOUR complete full-body views in order FRONT, BACK, LEFT profile facing image-left, RIGHT profile facing image-right. Same scale, same neutral standing pose, aligned ground line, full ears/feet/equipment with margins. Genuine rear anatomy with full rear garment panels, tail opening, equipment straps and fasteners. Do not use mirrored front as back. The character's left hand/hip is screen-right in front and screen-left in back; right is opposite. Profiles correctly occlude far-side equipment. Never swap weapon side or quiver side between views. Pale warm beige background, faint horizontal registration lines, no text, labels, logo, landscape or obscuring effects. Each figure is the same person wearing exactly the same outfit. Character design brief follows: {
+  "id": "wolf_cavalry",
+  "name": "逐铃",
+  "race": "狼族",
+  "role": "骑兵",
+  "palette": "银灰毛、枣红、土黄",
+  "face": "笑眼与上翘额毛，活泼可靠；短狼吻、立耳、宽爪与蓬尾",
+  "front": "短枪、皮缰、短披、信袋；另有山羊坐骑",
+  "sides": "右手短枪、左手缰；骑手站立四视图，坐骑单独侧视",
+  "back": "短披后片、驮袋扣具、鞍垫与缰带连接",
+  "identity": "运输、接应与远路通信的普通居民，有独立工作与伙伴关系",
+  "known": false,
+  "number": 6
+} SPECIAL CAVALRY LAYOUT: upper row = all four views of DISMOUNTED standing rider, NOT mounted. Lower row = one separate complete SIDE VIEW of its cute sturdy mountain goat with saddle and packs; show real reins/strap construction. Avoid rider obscured by mount.

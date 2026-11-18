@@ -1,0 +1,16 @@
+﻿Design an original distinct anthropomorphic FOX character for 家园 in the attached sheet's same refined hand-painted fantasy art style and ADORABLE THREE-HEAD-TALL proportions. Large expressive head, short muzzle, oversized pointed ears, small compact torso, short sturdy limbs, broad paws, ONE fluffy white-tipped tail; adult presented as a cute miniature. Do not clone the lord's route-compass, cape roll, maps, sword or teal costume. Change face shape, hair tuft and clothes according to the unique profession brief. ONE wide sheet with EXACTLY FOUR complete full-body views left to right: FRONT, true BACK, character LEFT profile facing image-left, character RIGHT profile facing image-right. Same outfit and neutral relaxed stance, identical scale/ground line. Genuine rear structure with coat hem, tail root and connected straps. Each asymmetric item stays same body side: RIGHT hand prop appears FRONT screen-left and BACK screen-right; LEFT waist bag appears FRONT screen-right and BACK screen-left. Correct side-view occlusion, no duplicated props or hands. Full ears/feet/equipment not cropped. Warm beige neutral background with faint alignment lines. No text/logos/scenery or strong magic obscuring shape.
+CHARACTER BRIEF:
+{
+  "id": "fox_mage",
+  "name": "雾绫",
+  "race": "狐狸",
+  "role": "术士",
+  "palette": "暗红、烟紫、灰银",
+  "face": "沉静大眼与整齐短额毛；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "木骨法杖、短层袍、符片与记录袋",
+  "sides": "右手法杖、左腰记录袋",
+  "back": "袍后片、系带、法杖杆接头",
+  "identity": "可读的魔法控制与辅助的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 29
+}

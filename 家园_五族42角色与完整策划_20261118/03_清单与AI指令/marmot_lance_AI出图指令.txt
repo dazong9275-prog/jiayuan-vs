@@ -1,0 +1,16 @@
+﻿Create a NEW individual MARMOT character for fantasy game 家园, using attached sheet ONLY for adorable compact three-head-tall proportions and rich painterly fur, cloth, leather and aged bronze. Distinct round cheeks, small round ears, tiny front incisors, short fluffy tail, plump short arms and legs, broad paws. ADULT character in lovable stylization, not baby. Match brief's DIFFERENT muzzle/hairstyle/expression/palette/equipment; do not copy chief's green hood, acorn shield, mallet or engineering plans unless brief explicitly asks. ONE wide sheet with exactly FOUR complete full-body orthographic views ordered FRONT, BACK, character LEFT PROFILE facing image-left, character RIGHT PROFILE facing image-right. Same neutral relaxed pose, scale and foot baseline. Clearly show real back of head, back clothing, belt closure, short tail root, rear straps, weapon mounts and side thickness. Every asymmetric item MUST stay on CHARACTER's same anatomical side: front image-right becomes back image-left, front image-left becomes back image-right. Profiles respect near/far-side occlusion. Never use mirrored front as back. Exactly two arms, two legs per view; same equipment count. Full ears, feet, weapons in frame. Pale beige background with subtle alignment lines, no words, letters, labels, logos, scenic background or obscuring effects. This is one individual's four-view sheet, not four different characters. 
+SPECIFIC CHARACTER (Chinese details mandatory):
+{
+  "id": "marmot_lance",
+  "name": "芽哨",
+  "race": "土拨鼠",
+  "role": "枪兵",
+  "palette": "浅棕、草青、米白",
+  "face": "较窄短脸，眉梢上扬；圆颊、小圆耳、少量门齿与短毛尾",
+  "front": "高枪、短旗穗、小臂盾",
+  "sides": "右手枪、左前臂盾；禁止背旗复制主将",
+  "back": "小盾后握带、短披肩、盘绳与腰包",
+  "identity": "巡路与护送的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 15
+}

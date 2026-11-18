@@ -1,0 +1,14 @@
+﻿Create a DIFFERENT individual anthropomorphic WOLF for game 家园, using the reference only for shared extremely cute THREE-HEADS-TALL miniature adult anatomy and meticulous painterly fur/cloth/aged-leather/bronze rendering. Big round expressive head, very short thick limbs, broad soft paws, low compact torso, friendly but distinct character-specific face and hairstyle. Do NOT copy spear hero's braid, back flag, spear or face markings unless explicitly requested. ONE wide clean sheet with FOUR complete full-body views in order FRONT, BACK, LEFT profile facing image-left, RIGHT profile facing image-right. Same scale, same neutral standing pose, aligned ground line, full ears/feet/equipment with margins. Genuine rear anatomy with full rear garment panels, tail opening, equipment straps and fasteners. Do not use mirrored front as back. The character's left hand/hip is screen-right in front and screen-left in back; right is opposite. Profiles correctly occlude far-side equipment. Never swap weapon side or quiver side between views. Pale warm beige background, faint horizontal registration lines, no text, labels, logo, landscape or obscuring effects. Each figure is the same person wearing exactly the same outfit. Character design brief follows: {
+  "id": "wolf_alchemist",
+  "name": "炭星",
+  "race": "狼族",
+  "role": "炼金师",
+  "palette": "暖灰毛、炭黑、琥珀",
+  "face": "卷翘额毛或羽簇，好奇专注；短狼吻、立耳、宽爪与蓬尾",
+  "front": "护目镜、深围裙、药瓶、工具盒与小量杯",
+  "sides": "左手量杯、右腰瓶架、后腰工具盒",
+  "back": "护目镜头带扣、围裙交叉带、瓶架固定",
+  "identity": "烟幕、药剂与修理耗材的普通居民，有独立工作与伙伴关系",
+  "known": false,
+  "number": 10
+}

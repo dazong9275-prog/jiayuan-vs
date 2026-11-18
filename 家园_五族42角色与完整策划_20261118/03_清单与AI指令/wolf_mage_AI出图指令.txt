@@ -1,0 +1,14 @@
+﻿Create a DIFFERENT individual anthropomorphic WOLF for game 家园, using the reference only for shared extremely cute THREE-HEADS-TALL miniature adult anatomy and meticulous painterly fur/cloth/aged-leather/bronze rendering. Big round expressive head, very short thick limbs, broad soft paws, low compact torso, friendly but distinct character-specific face and hairstyle. Do NOT copy spear hero's braid, back flag, spear or face markings unless explicitly requested. ONE wide clean sheet with FOUR complete full-body views in order FRONT, BACK, LEFT profile facing image-left, RIGHT profile facing image-right. Same scale, same neutral standing pose, aligned ground line, full ears/feet/equipment with margins. Genuine rear anatomy with full rear garment panels, tail opening, equipment straps and fasteners. Do not use mirrored front as back. The character's left hand/hip is screen-right in front and screen-left in back; right is opposite. Profiles correctly occlude far-side equipment. Never swap weapon side or quiver side between views. Pale warm beige background, faint horizontal registration lines, no text, labels, logo, landscape or obscuring effects. Each figure is the same person wearing exactly the same outfit. Character design brief follows: {
+  "id": "wolf_mage",
+  "name": "玄苇",
+  "race": "狼族",
+  "role": "术士",
+  "palette": "炭灰毛、深靛、灰银",
+  "face": "沉静大眼与整齐短额毛；短狼吻、立耳、宽爪与蓬尾",
+  "front": "旧羊角法杖、深靛短层袍、克制法光与符片",
+  "sides": "右手法杖、左腰记录袋",
+  "back": "袍后片、系带、法杖杆接头",
+  "identity": "可读的魔法控制与辅助的普通居民，有独立工作与伙伴关系",
+  "known": false,
+  "number": 8
+}

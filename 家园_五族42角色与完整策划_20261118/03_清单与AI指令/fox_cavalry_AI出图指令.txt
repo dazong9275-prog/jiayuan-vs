@@ -1,0 +1,17 @@
+﻿Create an ORIGINAL distinct anthropomorphic fox character for the fantasy game 家园. Use attached fox reference ONLY for polished painterly rendering and adorable 3-head-tall proportions, not its costume or props. ADULT character rendered as a cute miniature: oversized expressive head, large pointed ears, short muzzle, short sturdy limbs, round broad paws, ONE fluffy white-tipped tail. Tactile fur, cloth, worn leather, subdued bronze. FOUR complete full-body views in one wide sheet, from left to right: straight FRONT, true BACK, CHARACTER LEFT PROFILE facing image-left, CHARACTER RIGHT PROFILE facing image-right. ALL same scale, same relaxed neutral pose, same costume and equipment count. Ground and crown aligned. Entire ears, feet, weapons visible with margin. Back must be real rear structure and straps, never mirrored front. Maintain character-relative handedness: left side gear front image-right/back image-left; right side gear front image-left/back image-right. Profiles must honor near/far equipment occlusion. No additional hands/tails/weapons, no human body proportions, no background scenery, no text/logos/captions or floating heads. Light warm beige background, faint unobtrusive alignment lines. Follow the unique Chinese brief precisely, separating this character from the reference lord.
+CAVALRY layout: the top row is FOUR DISMOUNTED STANDING RIDER views, with full rider anatomy unobscured. In a separate lower row, show exactly ONE full-body SIDE VIEW of the small sturdy mountain GOAT mount with saddle, panniers and reins. Do not draw four mounted views. Rider holds a SHORT spear in right hand and coiled reins in left. Goat is a separate mount, not another playable race.
+CHARACTER BRIEF:
+{
+  "id": "fox_cavalry",
+  "name": "风铃",
+  "race": "狐狸",
+  "role": "骑兵",
+  "palette": "赤金、青蓝、暖棕",
+  "face": "笑眼与上翘额毛，活泼可靠；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "短枪、皮缰、短披、信袋；另有山羊坐骑",
+  "sides": "右手短枪、左手缰；骑手站立四视图，坐骑单独侧视",
+  "back": "短披后片、驮袋扣具、鞍垫与缰带连接",
+  "identity": "运输、接应与远路通信的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 27
+}

@@ -1,0 +1,16 @@
+﻿Create a NEW individual FOX character for the fantasy game 家园. Use the attached fox chief only as a rendering/proportion reference, NOT as a costume template. Adorable THREE-HEAD-TALL compact anthropomorphic adult fox, oversized round appealing head, short pointed muzzle, large pointed ears, VERY SHORT stout limbs, broad paws, ONE full white-tipped tail, expressive friendly eyes. Elegant hand-painted detailed fur, tactile leather, thick cloth and old bronze. Every profession must have its own face shape, main palette, clothing shape and equipment per brief. Do NOT copy chief's rolled rain cape, route-map, compass, sash or short sword unless that item is required for this profession. ONE wide production concept sheet: exactly FOUR COMPLETE full-body views arranged left to right FRONT, BACK, character LEFT PROFILE facing image-left, character RIGHT PROFILE facing image-right. Neutral standing pose, same scale, same posture, unified head and foot heights; no perspective foreshortening, no 3/4 profiles. Real back skull, rear garment panels, belt closure, tail root and equipment straps. Back is NOT a mirrored front. Preserve left/right in body coordinates: items in RIGHT hand appear screen-left in front and screen-right in back; LEFT forearm/hip items screen-right in front, screen-left in back. Profiles must have correct near/far occlusion, never swap gear. Entire ears, feet and weapons inside generous margins. Pale warm BEIGE background and faint alignment lines, no scene, text, labels, watermark, extra heads, effects or cropping. Anatomically plausible cute paws and two arms only.
+CHARACTER BRIEF:
+{
+  "id": "fox_lance",
+  "name": "灯穗",
+  "race": "狐狸",
+  "role": "枪兵",
+  "palette": "橘红、草绿、麦黄",
+  "face": "较窄短脸，眉梢上扬；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "高枪、短旗穗、小臂盾",
+  "sides": "右手枪、左前臂盾；禁止背旗复制主将",
+  "back": "小盾后握带、短披肩、盘绳与腰包",
+  "identity": "巡路与护送的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 25
+}

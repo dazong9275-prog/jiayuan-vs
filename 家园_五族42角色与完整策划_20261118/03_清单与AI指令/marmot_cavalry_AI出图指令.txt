@@ -1,0 +1,18 @@
+﻿Create ONE independent character design sheet for the fantasy game 家园. Use the supplied marmot ONLY as a reference for its round-cheeked, small round-eared, visible tiny front-incisor species anatomy, THREE-HEAD-TALL adorable compact adult proportions, short stout limbs, broad little paws, short furry tail, and polished warm hand-painted fur/leather/cloth/old bronze finish. This is a NEW individual with a DIFFERENT profession, clothes, head shape and palette from the supplied builder chief. Do NOT copy the chief's hood, acorn shield, mallet, ruler or plans unless the brief requests them.
+Exactly FOUR full-body views in a horizontal row: FRONT, BACK, character LEFT PROFILE facing picture-left, character RIGHT PROFILE facing picture-right. All views show the SAME character and equipment, the SAME neutral standing pose, equal scale, aligned ground level, complete ears, feet and weapons in frame. Real back of head, rear clothes, belt closure, equipment mountings and short tail visible; back is NOT a mirrored front. Side views truly side-on with volume. Keep character-relative asymmetry consistent: left hand/hip equipment appears picture-right in FRONT and picture-left in BACK; right equipment opposite. Correct near/far occlusion in profiles. Equipment stays held in the same hand and pose in every view; don't suddenly sheathe or move it onto the back. Pale warm beige neutral background with faint registration lines. No words, captions, labels, numbers, logos, scenery, giant effects, extra views or duplicate weapons. No human faces, human long legs, pointed wolf ears, long fox tails. Cute but capable adult inhabitant.
+CAVALRY LAYOUT OVERRIDE: Upper row contains exactly the FOUR DISMOUNTED standing rider views above. A separated lower row contains ONE SIDE VIEW of the cute sturdy mountain goat mount showing saddle, saddlecloth, pack straps and reins, with all four legs anatomically correct. Do not put the rider on the goat in the four views. The goat is the only extra figure. The rider's short spear stays in RIGHT hand; coiled leather reins in LEFT hand, no connecting floating ropes between separate figures.
+ROLE BRIEF, follow precisely:
+{
+  "id": "marmot_cavalry",
+  "name": "豆铃",
+  "race": "土拨鼠",
+  "role": "骑兵",
+  "palette": "浅褐、天蓝、麦黄",
+  "face": "笑眼与上翘额毛，活泼可靠；圆颊、小圆耳、少量门齿与短毛尾",
+  "front": "短枪、皮缰、短披、信袋；另有山羊坐骑",
+  "sides": "右手短枪、左手缰；骑手站立四视图，坐骑单独侧视",
+  "back": "短披后片、驮袋扣具、鞍垫与缰带连接",
+  "identity": "运输、接应与远路通信的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 17
+}

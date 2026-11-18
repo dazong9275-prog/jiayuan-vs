@@ -1,0 +1,18 @@
+﻿Create a DISTINCT individual anthropomorphic OWL character for fantasy game 家园. Use the reference sheet ONLY for quality, art direction, and cute THREE-HEAD-TALL proportion: oversized round facial disk, expressive golden/hazel eyes, little hooked BEAK, real feathered WING-ARMS with feathered grasping tips rather than human hands, short sturdy body, short bird legs and TALONS, layered feather tail. Lovable adult in miniature chibi proportions. Fine hand-painted feathers, tactile leather, cloth, aged metal. NOT the pope: NO papal cap, NO cross, NO scripture book, NO inherited ceremonial white-and-burgundy costume unless the individual brief calls for its colors. Clearly vary face, plumage and clothing to match the individual brief.
+ONE wide character turnaround sheet, exactly FOUR complete full-body views in a row: FRONT, BACK, character's LEFT side profile facing image-left, character's RIGHT side profile facing image-right. Same neutral standing pose, same costume, same scale and foot baseline. Each head, wings, feet and all equipment fully inside margins. Genuine back view showing rear head feathers, wing roots, rear clothes, belt closure, feather tail and actual equipment straps; never mirror front into back. True side views with coherent body volume. ALL asymmetric items must keep same CHARACTER-RELATIVE side: character LEFT items appear screen-right in FRONT and screen-left in BACK; character RIGHT vice versa. Correct occlusion of far-side equipment in profiles. No duplicated weapons or extra limbs. Pale warm beige plain background with faint alignment guides. No text, labels, numbers, logos, environment or obscuring VFX.
+CAVALRY EXCEPTION: the top row must have FOUR standing DISMOUNTED RIDER views, not mounted poses. Add one separate lower-row full-body SIDE VIEW of a matching cute sturdy MOUNTAIN GOAT mount with saddle, saddle-pad, packs and reins. The mount does not obscure the rider anatomy.
+INDIVIDUAL BRIEF:
+{
+  "id": "owl_cavalry",
+  "name": "行羽",
+  "race": "猫头鹰",
+  "role": "骑兵",
+  "palette": "斑褐、苔绿、麦黄",
+  "face": "笑眼与上翘额毛，活泼可靠；圆面盘、小喙、翼臂、鸟爪与短尾羽",
+  "front": "短枪、皮缰、短披、信袋；另有山羊坐骑",
+  "sides": "右手短枪、左手缰；骑手站立四视图，坐骑单独侧视",
+  "back": "短披后片、驮袋扣具、鞍垫与缰带连接",
+  "identity": "运输、接应与远路通信的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 37
+}

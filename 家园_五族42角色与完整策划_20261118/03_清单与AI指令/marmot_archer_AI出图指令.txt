@@ -1,0 +1,17 @@
+﻿Create ONE independent character design sheet for the fantasy game 家园. Use the supplied marmot ONLY as a reference for its round-cheeked, small round-eared, visible tiny front-incisor species anatomy, THREE-HEAD-TALL adorable compact adult proportions, short stout limbs, broad little paws, short furry tail, and polished warm hand-painted fur/leather/cloth/old bronze finish. This is a NEW individual with a DIFFERENT profession, clothes, head shape and palette from the supplied builder chief. Do NOT copy the chief's hood, acorn shield, mallet, ruler or plans unless the brief requests them.
+Exactly FOUR full-body views in a horizontal row: FRONT, BACK, character LEFT PROFILE facing picture-left, character RIGHT PROFILE facing picture-right. All views show the SAME character and equipment, the SAME neutral standing pose, equal scale, aligned ground level, complete ears, feet and weapons in frame. Real back of head, rear clothes, belt closure, equipment mountings and short tail visible; back is NOT a mirrored front. Side views truly side-on with volume. Keep character-relative asymmetry consistent: left hand/hip equipment appears picture-right in FRONT and picture-left in BACK; right equipment opposite. Correct near/far occlusion in profiles. Equipment stays held in the same hand and pose in every view; don't suddenly sheathe or move it onto the back. Pale warm beige neutral background with faint registration lines. No words, captions, labels, numbers, logos, scenery, giant effects, extra views or duplicate weapons. No human faces, human long legs, pointed wolf ears, long fox tails. Cute but capable adult inhabitant.
+ROLE BRIEF, follow precisely:
+{
+  "id": "marmot_archer",
+  "name": "麦弦",
+  "race": "土拨鼠",
+  "role": "弓手",
+  "palette": "栗棕、橄榄绿、褐红",
+  "face": "清晰眉线，耳或羽簇完整，温和目光；圆颊、小圆耳、少量门齿与短毛尾",
+  "front": "木角弓、箭袋、护指和窄护臂",
+  "sides": "左手持弓、右肩至右胯箭袋；背面弓在画面左、袋在画面右",
+  "back": "箭袋真实袋口与背带、弓弦、后腰工具袋",
+  "identity": "远程支援与观测的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 18
+}

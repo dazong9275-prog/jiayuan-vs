@@ -1,0 +1,16 @@
+﻿Design an original distinct anthropomorphic FOX character for 家园 in the attached sheet's same refined hand-painted fantasy art style and ADORABLE THREE-HEAD-TALL proportions. Large expressive head, short muzzle, oversized pointed ears, small compact torso, short sturdy limbs, broad paws, ONE fluffy white-tipped tail; adult presented as a cute miniature. Do not clone the lord's route-compass, cape roll, maps, sword or teal costume. Change face shape, hair tuft and clothes according to the unique profession brief. ONE wide sheet with EXACTLY FOUR complete full-body views left to right: FRONT, true BACK, character LEFT profile facing image-left, character RIGHT profile facing image-right. Same outfit and neutral relaxed stance, identical scale/ground line. Genuine rear structure with coat hem, tail root and connected straps. Each asymmetric item stays same body side: RIGHT hand prop appears FRONT screen-left and BACK screen-right; LEFT waist bag appears FRONT screen-right and BACK screen-left. Correct side-view occlusion, no duplicated props or hands. Full ears/feet/equipment not cropped. Warm beige neutral background with faint alignment lines. No text/logos/scenery or strong magic obscuring shape.
+CHARACTER BRIEF:
+{
+  "id": "fox_medic",
+  "name": "橘苓",
+  "race": "狐狸",
+  "role": "医生",
+  "palette": "浅橘、米白、薄荷绿",
+  "face": "柔和圆眉、饱满脸颊；短尖吻、较大尖耳、单条白尖大尾",
+  "front": "小药灯、药包、绷带与药草",
+  "sides": "右手药灯、左腰药包",
+  "back": "交叉药包背带、绑带、衣摆开口",
+  "identity": "救护与安置居民的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 30
+}

@@ -1,0 +1,16 @@
+﻿Create an ORIGINAL individual cute anthropomorphic wolf for 家园 using attached sheet as STYLE/PROPORTION reference, NOT the same character. Extremely appealing compact 3-head-tall adult in chibi form, oversized expressive head, SHORT stout arms and legs, broad paws, fine tactile fur, cloth/leather/aged bronze, warm friendly features with individual facial shape. Follow Chinese role brief; do NOT copy flag officer's flags, braid, ornaments, face stripes or indigo uniform unless specifically stated. ONE wide sheet contains four complete full-body views: FRONT, BACK, LEFT side facing image-left, RIGHT side facing image-right. Same character, costume, scale, neutral pose, ground level. Full ears/feet/weapons visible. Rear design must be real rear head/clothes/equipment with correct fastening, not mirrored front. Keep asymmetry consistent in body space: LEFT hand/hip items front screen-right and back screen-left; RIGHT items front screen-left and back screen-right; correct near/far occlusion in both profiles. All structural angles must be compatible. Pale warm beige background with faint registration lines. No text, logos, numbers, scenes, drama or obscuring magic effects.
+BRIEF:
+{
+  "id": "wolf_dualblade",
+  "name": "峦牙",
+  "race": "狼族",
+  "role": "双刀主将",
+  "palette": "灰白毛、深红披风、旧铜",
+  "face": "方圆短吻、收眉不凶、厚肩短腰",
+  "front": "双刀高低错持、旧铜单肩甲、小背旗",
+  "sides": "左肩铜甲、右刀略高、左刀略低、右背旗",
+  "back": "交叉背带、红披风与旗分别固定、宽尾后腰开口",
+  "identity": "旧守关斗士，学习保护撤离线而不只追击敌人",
+  "known": true,
+  "number": 1
+}

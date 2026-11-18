@@ -1,0 +1,17 @@
+﻿Create a DIFFERENT individual anthropomorphic WOLF for game 家园, using the reference only for shared extremely cute THREE-HEADS-TALL miniature adult anatomy and meticulous painterly fur/cloth/aged-leather/bronze rendering. Big round expressive head, very short thick limbs, broad soft paws, low compact torso, friendly but distinct character-specific face and hairstyle. Do NOT copy spear hero's braid, back flag, spear or face markings unless explicitly requested. ONE wide clean sheet with FOUR complete full-body views in order FRONT, BACK, LEFT profile facing image-left, RIGHT profile facing image-right. Same scale, same neutral standing pose, aligned ground line, full ears/feet/equipment with margins. Genuine rear anatomy with full rear garment panels, tail opening, equipment straps and fasteners. Do not use mirrored front as back. The character's left hand/hip is screen-right in front and screen-left in back; right is opposite. Profiles correctly occlude far-side equipment. Never swap weapon side or quiver side between views. Pale warm beige background, faint horizontal registration lines, no text, labels, logo, landscape or obscuring effects. Each figure is the same person wearing exactly the same outfit. Character design brief follows: {
+  "id": "wolf_heavy_archer",
+  "name": "弦野",
+  "race": "狼族",
+  "role": "重弓手",
+  "palette": "灰白、苔绿、赭黄、棕红箭袋",
+  "face": "厚肩粗前臂，暖金眼，短分层鬃、额侧白绺、耳缘缺口、旧疤",
+  "front": "近身高的角木重弓，外展骨角，长而宽的大箭袋",
+  "sides": "左手弓、右肩至右胯箭袋；左耳缺口；宣传立绘朝右",
+  "back": "箭袋袋口、双固定点、缝线；无背盾无凸块",
+  "identity": "瞭望与远程支援，学习双人确认观测",
+  "known": true,
+  "number": 7
+} HEAVY ARCHER: warm gold eyes and a slight smile, thick forearms, swept layered short mane with ivory forelock, visible ears, NOT hood or headband, NO shield. Huge dark horn-and-wood bow nearly as tall as body with pale bone horns spreading outward at BOTH bow tips. A genuinely long wide reddish-brown quiver runs from RIGHT shoulder to RIGHT hip. Bow held LEFT hand. BACK MUST have bow screen-left and quiver screen-right, right-shoulder leather armor also screen-right. Moss green short cross-collar vest and ochre belt. Do not revert canceled cold eyes/small quiver/left-facing promo design; neutral front in this turnaround is allowed.
+
+最终修正调用（以原图为参考）：
+Edit the supplied four-view cute anthropomorphic wolf heavy archer model sheet precisely. Keep the same character, face, gold eyes, ivory forelock, scar, ear notch, green vest, large horn-and-wood bow, extra-large quiver, proportions, four-panel composition, beige background, and painterly finish. Repair ONLY the FIRST (front-facing leftmost) figure: move the bow to the viewer's RIGHT side of this front figure, and have the character's anatomical LEFT paw (viewer right) clearly grasp the central bow grip at waist level, fingers visibly wrapped around the grip. Remove the old bow on the viewer's left. The front figure's anatomical right hand, viewer left, rests naturally. Keep the arrows emerging over the front figure's anatomical RIGHT shoulder, viewer LEFT. This makes the front match the existing back view, in which the bow is viewer LEFT and quiver opening viewer RIGHT. Keep the other three figures intact. Ensure the front bow does not overlap the back figure. No new text or watermarks. Complete full body, four distinct orientations.

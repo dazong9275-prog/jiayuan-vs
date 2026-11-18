@@ -1,0 +1,16 @@
+﻿Create a distinct OWL character for fantasy game 家园. Attached owl is ONLY a rendering/proportion/species reference, NOT the character's career outfit. Beautiful appealing painterly mini fantasy, adult represented with adorable compact THREE HEADS TALL chibi proportions, oversized round owl facial disk, expressive large eyes, tiny hooked bird beak, SHORT body and legs, feathered WING-ARMS with articulated feather-claw grip (never naked human hands), bird talons and small feather tail. Different face and plumage from reference and profession-appropriate clothing. DO NOT copy pope cap, cross, book, church robe or burgundy stole except if brief expressly requests. A single wide sheet of FOUR complete full-body ORTHOGRAPHIC views left to right: FRONT, BACK, CHARACTER LEFT PROFILE facing image-left, CHARACTER RIGHT PROFILE facing image-right. Same body, neutral standing pose, scale and foot baseline across all. Entire ear tufts, feet and weapons within frame. Clear genuine rear head, feather tail, wing roots, garment rear and equipment mounting. Left hand/side equipment FRONT screen-right and BACK screen-left; right equipment vice versa. Profiles must truly be side views, respect near/far occlusion, and never flip bodily handedness. Same neutral arm pose in each view. Pale warm beige plain background with subtle horizontal alignment lines; NO captions, letters, labels, extra heads, backdrop or magical effects. Follow the Chinese brief, adapting references to OWL anatomy (the words muzzle/hands mean beak/wing-grip, not mammal muzzle or human hands).
+INDIVIDUAL BRIEF:
+{
+  "id": "owl_lance",
+  "name": "夜哨",
+  "race": "猫头鹰",
+  "role": "枪兵",
+  "palette": "浅褐、青灰、米白",
+  "face": "较窄短脸，眉梢上扬；圆面盘、小喙、翼臂、鸟爪与短尾羽",
+  "front": "高枪、短旗穗、小臂盾",
+  "sides": "右手枪、左前臂盾；禁止背旗复制主将",
+  "back": "小盾后握带、短披肩、盘绳与腰包",
+  "identity": "巡路与护送的普通居民，有独立工作与伙伴关系",
+  "known": true,
+  "number": 35
+}
