@@ -1,3 +1,11 @@
+## 最新《家园》机制设计包 · 2026-11-19
+
+[直接下载纯 Markdown 压缩包](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/jiayuan-design-md-20261119.zip) · [在线阅读设计目录](design-specs/2026-11-19/README.md)
+
+本包含356份Markdown：200件特性装备、100件普通装备、10职业与110技能、12个可散搭装备系列、8剧情地图、8非对称竞技地图、世界故事与程序架构。已纳入2/3/5件套装和约11项技能配置。数值为原型规格，尚待实机验证；本包不含模型或Word。
+
+---
+
 # 家园 · 五族42人物与完整策划
 
 设计资料快照：2026-11-18。
