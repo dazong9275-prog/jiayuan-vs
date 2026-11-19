@@ -1,3 +1,11 @@
+## 家园V2 · 32关优化版 · 2026-11-19
+
+[下载V2完整Markdown包](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/jiayuan-v2-32levels-md-20261119.zip) · [在线阅读V2目录](design-specs/2026-11-19-v2/README.md)
+
+401份Markdown：32主线关（第4关起渐进解谜）、8种族、12边境支线、12类非种族动物，保留300装备、10职业110技能和8竞技图。新增八档战役成长与大数值，基础生命10000起，装备可重铸。已完成文档与数值检查，实机战斗仍待验证。
+
+---
+
 ## 最新《家园》机制设计包 · 2026-11-19
 
 [直接下载纯 Markdown 压缩包](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/jiayuan-design-md-20261119.zip) · [在线阅读设计目录](design-specs/2026-11-19/README.md)
