@@ -1,3 +1,11 @@
+## 家园V2.1 · 详细地图建模指导 · 2026-11-20
+
+[下载V2.1完整Markdown包](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/jiayuan-v21-map-modeling-guides-20261120.zip) · [阅读完整设计目录](design-specs/2026-11-20-v2.1/README.md) · [进入地图建模指导](design-specs/2026-11-20-v2.1/11_地图建模指导/00_阅读与交付总览.md)
+
+461份Markdown，包含V2完整内容及60份新增指导：40张地图工作单、10种生态语言、统一尺度/模块/拓扑UV/材质灯光/机关/性能教程，以及P17雪径完整示范。全部为未来建模指导，没有生成模型。草原、雪地、洞穴、湖区、高山、湿地等各有独特地貌与制作要求。
+
+---
+
 ## 家园V2 · 32关优化版 · 2026-11-19
 
 [下载V2完整Markdown包](https://github.com/dazong9275-prog/jiayuan-vs/raw/refs/heads/download-packages/jiayuan-v2-32levels-md-20261119.zip) · [在线阅读V2目录](design-specs/2026-11-19-v2/README.md)
